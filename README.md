@@ -1,4 +1,4 @@
-🚗 DriveX — A Minimal File Drive Backend (Node.js + Express + MongoDB + Firebase)
+ DriveX — A Minimal File Drive Backend (Node.js + Express + MongoDB + Firebase)
 
 DriveX is a lightweight file-drive backend built with Node.js, Express, MongoDB, and Firebase Storage.
 It supports JWT authentication using HTTP-only cookies, file upload with Firebase Storage, and ownership-based access control.
