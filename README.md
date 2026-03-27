@@ -6,7 +6,6 @@ It supports JWT authentication using HTTP-only cookies, file upload with Firebas
 ⭐ Features
 
 🔐 JWT Authentication (stored in HTTP-only cookies for security)
-
 📁 Upload + Store files in Firebase Storage
 
 🛡️ Ownership-based authorization — users can delete only their own files
